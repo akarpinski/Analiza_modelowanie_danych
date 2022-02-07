@@ -1,9 +1,9 @@
 Mój pierwszy projekt na studiach podyplomowych na Politechnice Gdańskiej
 "Inżynieria danych - Data Science".
 
-### Raport z analizy i modelowania danych
+## Raport z analizy i modelowania danych
 
-#### Cel badań - przewidywanie zdarzeń chorobowych serca ze względu na zmienną HeartDisease
+### Cel badań - przewidywanie zdarzeń chorobowych serca ze względu na zmienną HeartDisease
 * HeartDisease  określa stan chorobowy (mediana z danych czterech szpitali) - w skali od 0 (zdrowy) do 1 (chory)
 * Metody badań: klasyfikacja (binarna), drzewa decyzyjne i lasy losowe.
 * Porównanie wyników, wybór optymalnego modelu.
