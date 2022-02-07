@@ -14,4 +14,13 @@ Mój pierwszy projekt na studiach podyplomowych "Data Science" na Politechnice G
 5. Modelowanie danych - przyjęte założenia, krótki opis metod i obranej metodologii budowania modeli.
 6. Rezultaty, wnioski i ich dyskusja.
 
+```
+Badania, obliczenia, wykresy, tabele.
+Oparte na bibliotekach do przetwarzaniana, analizy, wizualizacji danych, głębokiego uczenia
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import sklearn
+```
 ##### źródło danych - https://www.kaggle.com
