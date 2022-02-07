@@ -5,13 +5,13 @@ Mój własny projekt na studiach "Inżynieria danych - Data Science" na Politech
 #### Cel badań - przewidywanie zdarzeń chorobowych serca ze względu na zmienną HeartDisease
 * HeartDisease  - stan chorobowy (mediana z danych 4 szpitali) - w skali od 0 (zdrowy) do 1 (chory).
 * Metody badań: klasyfikacja (binarna), drzewa decyzyjne i lasy losowe.
-* Porównanie wyników, wybór optymalnego modelu.
 
 1. Wstęp - motywacja, cele.
 2. Opis danych - struktura zbiorów, opis zmiennych, pochodzenie.
-3. Przygotowywania danych do analizy i modelowania - kolejne kroki.
-4. Analiza danych - przyjęte założenia, krótki opis metod i obranej metodologii analizy.
-5. Modelowanie danych - założenia, krótki opis metod i obranej metodologii budowania modeli.
+3. Przygotowywania i oczyszczanie danych.
+4. Analiza danych na podstawie wybranych metod i bibliotek w Pythonie.
+5. Modelowanie danych - wykresy, wizualizacja wyników modeli.
+6. Porównanie wyników, wybór optymalnego modelu, wnioski.
 
 ```
 Badania, obliczenia, wykresy, tabele.
