@@ -16,7 +16,9 @@ Mój pierwszy projekt na studiach podyplomowych "Data Science" na Politechnice G
 
 ```
 Badania, obliczenia, wykresy, tabele.
-Oparte na bibliotekach do przetwarzaniana, analizy, wizualizacji danych, głębokiego uczenia
+
+Oparte na bibliotekach do przetwarzaniana, analizy, wizualizacji danych, głębokiego uczenia:
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
