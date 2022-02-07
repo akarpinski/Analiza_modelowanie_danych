@@ -26,4 +26,4 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import sklearn
 ```
-##### źródło danych - https://www.kaggle.com
+##### źródło analizowanych danych - https://www.kaggle.com
