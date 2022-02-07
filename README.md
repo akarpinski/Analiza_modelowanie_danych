@@ -5,18 +5,18 @@ Mój pierwszy projekt na studiach podyplomowych na Politechnice Gdańskiej
 
 #### Cel badań - przewidywanie zdarzeń chorobowych serca ze względu na zmienną HeartDisease
 * HeartDisease  określa stan chorobowy (mediana z danych czterech szpitali) - w skali od 0 (zdrowy) do 1 (chory)
-* Metoda badań: klasyfikacja (binarna)
-* Potem porównanie wyników z drzewami decyzyjnymi i lasami losowymi
+* Metody badań: klasyfikacja (binarna), drzewa decyzyjne i lasy losowe.
+* Porównanie wyników, wybór optymalnego modelu.
 
 1. Wstęp - motywacja, cele.
 2. Opis danych - struktura zbiorów, opis zmiennych, pochodzenie.
-3. Opis procesu przygotowywania danych do analizy i modelowania - kolejne kroki.
+3. Przygotowywania danych do analizy i modelowania - kolejne kroki.
 4. Analiza danych - przyjęte założenia, krótki opis metod i obranej metodologii analizy.
 5. Modelowanie danych - przyjęte założenia, krótki opis metod i obranej metodologii budowania modeli.
-6. Rezultaty, wnioski i ich dyskusja.
 
 ```
 Badania, obliczenia, wykresy, tabele.
+Kod w języku Pyton z komentarzami opisującymi kolejne kroki w edytowananym kodzie.
 
 Oparte na bibliotekach do przetwarzaniana, analizy, wizualizacji danych, głębokiego uczenia:
 
