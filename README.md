@@ -1,5 +1,4 @@
-Mój pierwszy projekt na studiach podyplomowych na Politechnice Gdańskiej
-"Inżynieria danych - Data Science".
+Mój własny projekt na studiach "Inżynieria danych - Data Science" na Politechnice Gdańskiej.
 
 ### Raport z analizy i modelowania danych
 
