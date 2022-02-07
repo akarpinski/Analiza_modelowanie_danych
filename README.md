@@ -1,3 +1,5 @@
+Mój pierwszy projekt na studiach podyplomowych "Data Science" na Politechnice Gdańskiej.
+
 ### Raport z analizy i modelowania danych
 
 #### Cel badań - przewidywanie zdarzeń chorobowych serca ze względu na zmienną HeartDisease
