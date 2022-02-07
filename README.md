@@ -4,7 +4,7 @@ Mój pierwszy projekt na studiach podyplomowych na Politechnice Gdańskiej
 ### Raport z analizy i modelowania danych
 
 #### Cel badań - przewidywanie zdarzeń chorobowych serca ze względu na zmienną HeartDisease
-* HeartDisease  określa stan chorobowy (mediana z danych czterech szpitali) - w skali od 0 (zdrowy) do 1 (chory)
+* HeartDisease  - stan chorobowy (mediana z danych 4 szpitali) - w skali od 0 (zdrowy) do 1 (chory)
 * Metody badań: klasyfikacja (binarna), drzewa decyzyjne i lasy losowe.
 * Porównanie wyników, wybór optymalnego modelu.
 
@@ -12,7 +12,7 @@ Mój pierwszy projekt na studiach podyplomowych na Politechnice Gdańskiej
 2. Opis danych - struktura zbiorów, opis zmiennych, pochodzenie.
 3. Przygotowywania danych do analizy i modelowania - kolejne kroki.
 4. Analiza danych - przyjęte założenia, krótki opis metod i obranej metodologii analizy.
-5. Modelowanie danych - przyjęte założenia, krótki opis metod i obranej metodologii budowania modeli.
+5. Modelowanie danych - założenia, krótki opis metod i obranej metodologii budowania modeli.
 
 ```
 Badania, obliczenia, wykresy, tabele.
