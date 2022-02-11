@@ -1,6 +1,6 @@
 Mój własny projekt na studiach "Inżynieria danych - Data Science" na Politechnice Gdańskiej.
 
-(wizualny podgląd po wejściu w katalogu w plik notatnika - rozszerzenie ipynb)
+(wizualny podgląd po wejściu do katalogu, w pliku notatnika - rozszerzenie ipynb)
 
 ### Raport z analizy i modelowania danych
 
