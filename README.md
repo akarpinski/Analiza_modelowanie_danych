@@ -1,6 +1,10 @@
+<img src="Raport_z_analizy_i_modelowania_danych/PG_WFTiMS.jpg" alt="Politechnika Gdańska" width="300" height="auto"> 
+
 Mój własny projekt na studiach "Inżynieria danych - Data Science" na Politechnice Gdańskiej.
 
 (wizualny podgląd po wejściu do katalogu, w pliku z Jupyter Notebook - rozszerzenie ipynb)
+
+---
 
 ### Raport z analizy i modelowania danych
 
