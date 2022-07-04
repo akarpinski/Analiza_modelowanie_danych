@@ -3,8 +3,7 @@
 ##### Mój własny projekt na studiach "Inżynieria danych - Data Science" na Politechnice Gdańskiej.
 
 - kod w języku Python na edytorze Jupyter Notebook
-- wizualny podgląd w przeglądarce z pliku w Python lub HTML
-- dokładna, pełna dokumentacja projeku w pliku PDF
+- wizualny podgląd w przeglądarce z pliku w Python (ipynb) lub HTML
 
 ---
 
