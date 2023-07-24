@@ -1,10 +1,10 @@
 <img src="PG_WFTiMS.jpg" alt="Politechnika Gdańska" width="300" height="auto"> 
 
 ##### Mój własny projekt na studiach "Inżynieria danych - Data Science" na Politechnice Gdańskiej.
-###### W katalogu wszystkie elementy projeku (pliki ipynb, html, pdf).
+###### W katalogu wszystkie elementy projeku (pliki ipynb, py, html, pdf).
 
 - kod w języku Python na edytorze Jupyter Notebook
-- wizualny podgląd w przeglądarce z pliku w Python (ipynb) lub HTML
+- wizualny podgląd w przeglądarce z pliku w Python (ipynb, py) lub HTML
 
 ---
 
